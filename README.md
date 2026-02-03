@@ -1,6 +1,6 @@
 # JSON Schema Visualizer
 
-Developed with ❤️ by <a href="https://aramai.net" target="_blank" rel="noopener noreferrer">Aramai</a>
+Developed with ❤️ by [**Aramai**](https://www.aramai.net/)
 
 A free, lightweight tool to **load, explore, and understand JSON Schema visually**. Import a schema (file, URL, or paste), render it as an interactive graph, and navigate through nested structures with search, breadcrumbs, and a details panel.
 
